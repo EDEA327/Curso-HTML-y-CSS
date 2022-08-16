@@ -1,0 +1,6 @@
+div {
+    background-color: violet;
+}
+h2 + p {
+    color: yellow;
+}
